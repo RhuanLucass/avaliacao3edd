@@ -10,4 +10,8 @@ CMakeFiles/Prova_3.dir/Heap.c.obj: \
 CMakeFiles/Prova_3.dir/main.c.obj: \
  ../Grafo.h \
  ../Heap.h \
- ../main.c
+ ../main.c \
+ ../min-heap.h
+CMakeFiles/Prova_3.dir/min-heap.c.obj: \
+ ../min-heap.c \
+ ../min-heap.h

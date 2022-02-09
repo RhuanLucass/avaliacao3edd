@@ -127,6 +127,8 @@ void max_heapify(Heap *h, int p) {
     }
 }
 
+
+
 int menor_valor(Heap *h) {
     if (h == NULL)
         return -1;
@@ -154,6 +156,12 @@ int remover_menor(Heap *h) {
     remover_fim(h);
     max_heapify(h, pos);
     return 1;
+}
+
+int verifica_heap(int *heap, int tamanho) {
+
+
+    return 0;
 }
 
 

@@ -26,5 +26,6 @@ void controi_heap_de_vetor(Heap *h, int* vetor, int n);
 
 int menor_valor(Heap *h);
 int remover_menor(Heap *h);
+int verifica_heap(int *heap, int tamanho);
 
 #endif //PROVA_3_HEAP_H

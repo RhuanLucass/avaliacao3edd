@@ -89,6 +89,12 @@
 		<Unit filename="C:/Users/rhuan/Desktop/Ceferno/Lab. Estrutura de Dados/Codigos/Atividades/Prova_3/main.c">
 			<Option target="Prova_3"/>
 		</Unit>
+		<Unit filename="C:/Users/rhuan/Desktop/Ceferno/Lab. Estrutura de Dados/Codigos/Atividades/Prova_3/min-heap.c">
+			<Option target="Prova_3"/>
+		</Unit>
+		<Unit filename="C:/Users/rhuan/Desktop/Ceferno/Lab. Estrutura de Dados/Codigos/Atividades/Prova_3/min-heap.h">
+			<Option target="Prova_3"/>
+		</Unit>
 		<Unit filename="C:/Users/rhuan/Desktop/Ceferno/Lab. Estrutura de Dados/Codigos/Atividades/Prova_3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

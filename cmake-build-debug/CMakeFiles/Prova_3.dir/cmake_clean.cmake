@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Prova_3.dir/Grafo.c.obj"
   "CMakeFiles/Prova_3.dir/Heap.c.obj"
   "CMakeFiles/Prova_3.dir/main.c.obj"
+  "CMakeFiles/Prova_3.dir/min-heap.c.obj"
   "Prova_3.exe"
   "Prova_3.exe.manifest"
   "Prova_3.pdb"

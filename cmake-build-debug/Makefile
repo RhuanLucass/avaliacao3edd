@@ -200,6 +200,30 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Prova_3.dir\build.make CMakeFiles/Prova_3.dir/main.c.s
 .PHONY : main.c.s
 
+min-heap.obj: min-heap.c.obj
+.PHONY : min-heap.obj
+
+# target to build an object file
+min-heap.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Prova_3.dir\build.make CMakeFiles/Prova_3.dir/min-heap.c.obj
+.PHONY : min-heap.c.obj
+
+min-heap.i: min-heap.c.i
+.PHONY : min-heap.i
+
+# target to preprocess a source file
+min-heap.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Prova_3.dir\build.make CMakeFiles/Prova_3.dir/min-heap.c.i
+.PHONY : min-heap.c.i
+
+min-heap.s: min-heap.c.s
+.PHONY : min-heap.s
+
+# target to generate assembly for a file
+min-heap.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Prova_3.dir\build.make CMakeFiles/Prova_3.dir/min-heap.c.s
+.PHONY : min-heap.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -218,6 +242,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... min-heap.obj
+	@echo ... min-heap.i
+	@echo ... min-heap.s
 .PHONY : help
 
 
