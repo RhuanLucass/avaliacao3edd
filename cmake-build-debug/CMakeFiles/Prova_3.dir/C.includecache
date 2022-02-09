@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rhuan/Desktop/Ceferno/Lab. Estrutura de Dados/Codigos/Atividades/Prova_3/Grafo.h
+
+C:/Users/rhuan/Desktop/Ceferno/Lab. Estrutura de Dados/Codigos/Atividades/Prova_3/Heap.h
+
+C:/Users/rhuan/Desktop/Ceferno/Lab. Estrutura de Dados/Codigos/Atividades/Prova_3/main.c
+stdio.h
+-
+Heap.h
+C:/Users/rhuan/Desktop/Ceferno/Lab. Estrutura de Dados/Codigos/Atividades/Prova_3/Heap.h
+Grafo.h
+C:/Users/rhuan/Desktop/Ceferno/Lab. Estrutura de Dados/Codigos/Atividades/Prova_3/Grafo.h
+
