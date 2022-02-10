@@ -10,6 +10,7 @@
 #define VERDADEIRO 1
 #define FALSO 0
 
+//4
 struct heap_min {
     unsigned int qtde;
     unsigned int dados[N];
